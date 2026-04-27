@@ -1,0 +1,12 @@
+{
+  "admins": [
+    { "uname": "admin1", "pwd": "123", "fname": "Girish", "lname": "GV", "email": "girishgv21@gmail.com", "phone": "9742492316" }
+  ],
+  "students": [
+    { "uname": "naveen", "pwd": "12345", "fname": "Naveen", "lname": "RS", "email": "naveenrs@gmail.com", "phone": "9868909876", "course": "BCOM", "percentage": "70" },
+    { "uname": "girishgv21", "pwd": "12345", "fname": "Girish", "lname": "G V", "email": "girishgv21@gmail.com", "phone": "9742492316", "course": "BCA", "percentage": "78" }
+  ],
+  "companies": [
+    { "name": "Infosys", "type": "IT", "address": "BTM Layout, Bengaluru", "number": "9897876564", "website": "https://www.infosys.com/", "status": "Active", "minperc": "70" }
+  ]
+}

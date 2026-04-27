@@ -1,0 +1,7 @@
+vendor/
+composer.phar
+php_mongodb.dll
+mongodb_driver.zip
+mongodb_driver/
+*.bak
+.DS_Store
